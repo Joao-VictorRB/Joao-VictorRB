@@ -43,3 +43,5 @@
    </a>
 </div>
 
+#
+![Snake animation](https://github.com/Joao-VictorRB/Joao-VictorRB/blob/output/github-contribution-grid-snake-dark.svg)
